@@ -1,3 +1,4 @@
+#![doc(html_logo_url = "https://raw.githubusercontent.com/peterhj/libcuda/master/res/logo_512.png")]
 /*!
 # Cargo features
 
